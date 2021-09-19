@@ -25,7 +25,6 @@ Users should be able to:
 ### Screenshot
 
 ![](./design/Final_Design/Desktop_ScreenShot.PNG) 
-![](./design/Final_Design/Mobile_ScreenShot.PNG)
 
 ## My process
 
