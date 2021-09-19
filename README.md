@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Mobile_ScreenShot.PNG)
-![](./Desktop_ScreenShot.PNG)
+![](./design/Final_Design/Mobile_ScreenShot.PNG)
+![](./design/Final_Design/Desktop_ScreenShot.PNG)
 
 ## My process
 
